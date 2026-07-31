@@ -12,12 +12,10 @@
 
 - 📫 How to reach me **https://x.com/iishkas**
 
-- ⚡ Fun fact **I turn ideas into real tools using AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iishkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iishkas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shkas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
