@@ -58,13 +58,13 @@
 </tr>
 <tr>
 <td width="33%" align="center" valign="middle">
-<p align="center"><img src="https://img.shields.io/badge/LINUX-27272A?style=flat-square" alt="LINUX" /> <img src="https://img.shields.io/badge/AUDIO-F97316?style=flat-square" alt="AUDIO" /></p>
+<p align="center"><picture><img src="https://img.shields.io/badge/LINUX-27272A?style=flat-square" alt="LINUX" /></picture> <picture><img src="https://img.shields.io/badge/AUDIO-F97316?style=flat-square" alt="AUDIO" /></picture></p>
 </td>
 <td width="33%" align="center" valign="middle">
-<p align="center"><img src="https://img.shields.io/badge/WINDOWS-27272A?style=flat-square" alt="WINDOWS" /> <img src="https://img.shields.io/badge/AUTOMATION-F97316?style=flat-square" alt="AUTOMATION" /></p>
+<p align="center"><picture><img src="https://img.shields.io/badge/WINDOWS-27272A?style=flat-square" alt="WINDOWS" /></picture> <picture><img src="https://img.shields.io/badge/AUTOMATION-F97316?style=flat-square" alt="AUTOMATION" /></picture></p>
 </td>
 <td width="33%" align="center" valign="middle">
-<p align="center"><img src="https://img.shields.io/badge/WINDOWS-27272A?style=flat-square" alt="WINDOWS" /> <img src="https://img.shields.io/badge/WINGET%20%2F%20BAT-F97316?style=flat-square" alt="WINGET / BAT" /></p>
+<p align="center"><picture><img src="https://img.shields.io/badge/WINDOWS-27272A?style=flat-square" alt="WINDOWS" /></picture> <picture><img src="https://img.shields.io/badge/WINGET%20%2F%20BAT-F97316?style=flat-square" alt="WINGET / BAT" /></picture></p>
 </td>
 </tr>
 <tr>
